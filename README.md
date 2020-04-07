@@ -40,7 +40,7 @@
     <p>
       The role of Sandy in friends is played by Freddie Prinze Junior he is the man who looks after Emma (Rachels daughter) and plays a puppets show for her called the snufflebumps. 
     </p>
-    <div id="picture" a lign="center"
+    <div id="picture" align="center">
     <img src="https://i.pinimg.com/originals/33/d0/d2/33d0d256672de848b6a7dc9de12cc473.png"/>
   </div>
 </body>
