@@ -48,6 +48,11 @@
     </p>
     <div id="picture" align="center">
       <img src="https://img2.thejournal.ie/inline/3889536/original/?width=580&version=3889536" Height="225" width="225"/>
-      </div
-</body>
+    </div>
+      <p>
+      Another girl Chandler goes out with... Can u guess her? I'll give you a clue Joey also goes out with her. Have you guessed it, it's Kathy she is in the show for nearly one whole seasonher real name is Paget Valerie Brewster.
+    </p>
+     <div id="picture" align="center">
+       <img src="data:image/jpeg;"/>
+      </body>
 </html>
