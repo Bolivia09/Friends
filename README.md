@@ -4,7 +4,9 @@
   <img src="https://images2.minutemediacdn.com/image/upload/c_fill,w_912,h_516,f_auto,q_auto,g_auto/shape/cover/entertainment/5b2fefb9fae96f45b7000002.jpeg" alt="All of the 6 together" height="240" width="420"/>
 <div id="intro">
 <p>
-Friends The Tv Show is a sitcom with 6 main characters Monica Gellar, Ross Gellar, Chandler Bing, Pheobe Buffat, Joey Tribiane, Rachel Green.
+  <ul>
+    Friends The Tv Show is a sitcom with 6 main characters: <li>Monica Gellar</li>,<li> Ross Gellar</li>,<li> Chandler Bing</li>,<li> Pheobe Buffat</li>, <li>Joey Tribiane</li>,<li> Rachel Green</li>.
+    </ul>
   </div>
   <div>
 </p>
