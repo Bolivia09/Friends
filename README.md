@@ -52,7 +52,5 @@
       <p>
       Another girl Chandler goes out with... Can u guess her? I'll give you a clue Joey also goes out with her. Have you guessed it, it's Kathy she is in the show for nearly one whole seasonher real name is Paget Valerie Brewster.
     </p>
-     <div id="picture" align="center">
-       <img src="data:image/jpeg;"/>
       </body>
 </html>
