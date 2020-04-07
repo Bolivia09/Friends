@@ -47,6 +47,7 @@
       If your reading and thinking of oh my god this is the women I think you have all been waiting for, she is known on this brilliant tv show as Janice Hosenstein but her real name is Maggie Wheeler. She is Chandlers on and off girlfriend.Then she ends up nearly buying the house what was the one next to the one Chandler and Monica buys.
     </p>
     <div id="picture" align="center">
-      <img src="https://img2.thejournal.ie/inline/3889536/original/?width=580&version=3889536"/>
+      <img src="https://img2.thejournal.ie/inline/3889536/original/?width=580&version=3889536" Height="150" width="225"/>
+      </div
 </body>
 </html>
