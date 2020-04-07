@@ -23,5 +23,11 @@ Friends The Tv Show is a sitcom with 6 main characters Monica Gellar, Ross Gella
     In England there are 4 places to go for friends Manchester,Bristol,London and Milton Kenyes. You can go behind the scenes and visit Monica, Rachels apartment then go over to Joey and Chandlers to play some football then pivot over to Ross's place then have a coffee at central perk. There are hundreds things to do at this popular destination.You are only able to go to friends fest 31st of July to 16th of August in Manchester.In London it is 18 of September to 4 of October. In Milton Keynes the dates they are open are 21st of August till the 30th (which is only 9 days). From this coronavirus nobody knows the dates Bristol is closed but it is suppost to be open 25th of August.
  </p>
 </div>
+  <div>
+  <h2>
+    Famous stars
+    </h2>
+    <p>
+      The role of Sandy in friends is played by Freddie Prinze Junior.
 </body>
 </html>
