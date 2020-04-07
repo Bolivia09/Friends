@@ -41,7 +41,7 @@
       The role of Sandy in friends is played by Freddie Prinze Junior he is the man who looks after Emma (Rachels daughter) and plays a puppets show for her called the snufflebumps. 
     </p>
     <div id="picture" align="center">
-    <img src="https://i.pinimg.com/originals/33/d0/d2/33d0d256672de848b6a7dc9de12cc473.png" height="150" width="175"/>
+    <img src="https://i.pinimg.com/originals/33/d0/d2/33d0d256672de848b6a7dc9de12cc473.png" height="150" width="225"/>
   </div>
     <p>
       If your reading and thinking of oh my god this is the women I think you have all been waiting for, she is known on this brilliant tv show as Janice but her real name is Maggie Wheeler. She is Chandlers on and off girlfriend.Then she ends up nearly buying the house what was the one next to the one Chandler and Monica buys.
