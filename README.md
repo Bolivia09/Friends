@@ -1,4 +1,3 @@
-# Friends
 <html>
 <title>Olivia's Website</title>
 <body>
