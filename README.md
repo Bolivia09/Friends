@@ -2,7 +2,9 @@
 <title>Olivia's Website</title>
 <body>
 <h1>
-Friends 
+  <strong>
+Friends
+  </strong>
 </h1>
 <div id="intro">
 <p>
