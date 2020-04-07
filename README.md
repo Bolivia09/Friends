@@ -1,9 +1,11 @@
 <html>
 <title>Olivia's Website</title>
 <body>
+  <style>
   body {
   background-color:#0000FF
   }
+  </style>
   <div id="picture" align="center">
   <img src="https://images2.minutemediacdn.com/image/upload/c_fill,w_912,h_516,f_auto,q_auto,g_auto/shape/cover/entertainment/5b2fefb9fae96f45b7000002.jpeg" alt="All of the 6 together" height="240" width="420"/>
   </div>
@@ -39,7 +41,7 @@
       The role of Sandy in friends is played by Freddie Prinze Junior he is the man who looks after Emma (Rachels daughter) and plays a puppets show for her called the snufflebumps. 
     </p>
     <div id="picture" a lign="center"
-    <img src="https://images.app.goo.gl/rekKS7PTFRB8Mu2s9"/>
+    <img src="https://i.pinimg.com/originals/33/d0/d2/33d0d256672de848b6a7dc9de12cc473.png"/>
   </div>
 </body>
 </html>
