@@ -1,12 +1,7 @@
 <html>
 <title>Olivia's Website</title>
 <body>
-<h1>
-  <strong>
-Friends
-  </strong>
-  <img src="https://images2.minutemediacdn.com/image/upload/c_fill,w_912,h_516,f_auto,q_auto,g_auto/shape/cover/entertainment/5b2fefb9fae96f45b7000002.jpeg" alt="All of the 6 together"/>
-</h1>
+  <img src="https://images2.minutemediacdn.com/image/upload/c_fill,w_912,h_516,f_auto,q_auto,g_auto/shape/cover/entertainment/5b2fefb9fae96f45b7000002.jpeg" alt="All of the 6 together" height="240" width="320"/>
 <div id="intro">
 <p>
 Friends The Tv Show is a sitcom with 6 main characters Monica Gellar, Ross Gellar, Chandler Bing, Pheobe Buffat, Joey Tribiane, Rachel Green.
