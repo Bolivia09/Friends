@@ -28,6 +28,8 @@ Friends The Tv Show is a sitcom with 6 main characters Monica Gellar, Ross Gella
     Famous stars
     </h2>
     <p>
-      The role of Sandy in friends is played by Freddie Prinze Junior.
+      The role of Sandy in friends is played by Freddie Prinze Junior he is the man who looks after Emma (Rachels daughter) andplays a puppets show for her called the snufflebumps. 
+    </p>
+  </div>
 </body>
 </html>
