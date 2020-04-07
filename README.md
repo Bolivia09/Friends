@@ -17,6 +17,7 @@ Friends The Tv Show is a sitcom with 6 main characters Monica Gellar, Ross Gella
   <h2>Friends fest<h2>
   <p>
     In England there are 4 places to go for friends Manchester,Bristol,London and Milton Kenyes. You can go behind the scenes and visit Monica, Rachels apartment then go over to Joey and Chandlers to play some football then pivot over to Ross's place then have a coffee at central perk there is hundreds more to do at this popular destination. 
+ </p>
 </div>
 </body>
 </html>
