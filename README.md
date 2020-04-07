@@ -5,6 +5,7 @@
   <strong>
 Friends
   </strong>
+  <img src=https://images2.minutemediacdn.com/image/upload/c_fill,w_912,h_516,f_auto,q_auto,g_auto/shape/cover/entertainment/5b2fefb9fae96f45b7000002.jpeg/>
 </h1>
 <div id="intro">
 <p>
