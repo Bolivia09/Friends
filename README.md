@@ -44,9 +44,9 @@
     <img src="https://i.pinimg.com/originals/33/d0/d2/33d0d256672de848b6a7dc9de12cc473.png" height="150" width="225"/>
   </div>
     <p>
-      If your reading and thinking of oh my god this is the women I think you have all been waiting for, she is known on this brilliant tv show as Janice but her real name is Maggie Wheeler. She is Chandlers on and off girlfriend.Then she ends up nearly buying the house what was the one next to the one Chandler and Monica buys.
+      If your reading and thinking of oh my god this is the women I think you have all been waiting for, she is known on this brilliant tv show as Janice Hosenstein but her real name is Maggie Wheeler. She is Chandlers on and off girlfriend.Then she ends up nearly buying the house what was the one next to the one Chandler and Monica buys.
     </p>
     <div id="picture" align="center">
-      <img src=""/>
+      <img src="https://img2.thejournal.ie/inline/3889536/original/?width=580&version=3889536"/>
 </body>
 </html>
