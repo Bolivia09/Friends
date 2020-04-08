@@ -59,7 +59,8 @@
       This women doesn't really like Monica and thinks she is never gonna get married and she is her and Ross' mother. Yes its Judy Gellar her really name is actually Christina Pickles she was born 17th February 1935. 
     </p>
     <div id="picture" align="center">
-      <img src="https://i.pinimg.com/originals/c4/9b/51/c49b5196b4a94c775890eaff7b22752b.jpg"
+      <img src="https://i.pinimg.com/originals/c4/9b/51/c49b5196b4a94c775890eaff7b22752b.jpg" height="225" width="225"/>
+    </div>
     </p>
       </body>
 </html>
