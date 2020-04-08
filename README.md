@@ -53,7 +53,7 @@
       Another girl Chandler goes out with... Can u guess her? I'll give you a clue Joey also goes out with her. Have you guessed it, it's Kathy she is in the show for nearly one whole seasonher real name is Paget Valerie Brewster.
     </p>
     <div id="picture" align="center">
-      <img src="https://img.cinemablend.com/filter:scale/cb/1/a/7/7/f/c/1a77fcf6fded702af5cb0c0254125dd049e6ce17aeb8c1b3fc92d7cbc35101d2.jpg" width="250" height="250"/>
+      <img src="https://img.cinemablend.com/filter:scale/cb/1/a/7/7/f/c/1a77fcf6fded702af5cb0c0254125dd049e6ce17aeb8c1b3fc92d7cbc35101d2.jpg" width="300" height="250"/>
     </div>
     <p>
       This women doesn't really like Monica and thinks she is never gonna get married and she is her and Ross' mother. Yes its Judy Gellar her really name is actually Christina Pickles she was born 17th February 1935. 
