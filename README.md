@@ -1,4 +1,4 @@
-<html>
+<!DOCTYPE html>
 <title>Olivia's Website</title>
 <body>
   <style>
