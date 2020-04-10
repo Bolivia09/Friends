@@ -5,7 +5,6 @@
  </head>
 <body>
  <a href="./index.html">Friends</a>
-  </br>
   <a href="./aboutme.html">Blog</a>
   <style>
   body {
