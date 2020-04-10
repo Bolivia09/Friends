@@ -5,6 +5,7 @@
  </head>
 <body>
  <a href="./index.html">Friends</a>
+  </br>
   <a href="./aboutme.html">Blog</a>
   <style>
   body {
@@ -17,7 +18,13 @@
 <div id="intro">
 <p>
   <ul>
-    Friends The Tv Show is a sitcom with 6 main characters: <li>Monica Gellar=Courteney Cox</li><li>Ross Gellar = David Schwimmer</li><li> Chandler Bing = Matthew Perry</li><li> Pheobe Buffat = Lisa Kudrow</li> <li>Joey Tribiane = Mat le Blanc </li><li> Rachel Green = Jennifer Aniston</li>
+    Friends The Tv Show is a sitcom with 6 main characters: 
+    <li>Monica Gellar=Courteney Cox</li>
+    <li>Ross Gellar = David Schwimmer</li>
+    <li> Chandler Bing = Matthew Perry</li>
+    <li> Pheobe Buffat = Lisa Kudrow</li> 
+    <li>Joey Tribiane = Mat le Blanc </li>
+    <li> Rachel Green = Jennifer Aniston</li>
     </ul>
   </div>
   <div>
