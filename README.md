@@ -4,6 +4,7 @@
 <title>Olivia's Website</title>
  </head>
 <body>
+ <a href="./index.html">Friends</a>
   <style>
   body {
   background-color:#0000FF
