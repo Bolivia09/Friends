@@ -21,7 +21,7 @@
     <li>Monica Gellar=Courteney Cox</li>
     <li>Ross Gellar = David Schwimmer</li>
     <li> Chandler Bing = Matthew Perry</li>
-    <li> Pheobe Buffat = Lisa Kudrow</li> 
+    <li> Pheobe Buffay = Lisa Kudrow</li> 
     <li>Joey Tribiane = Mat le Blanc </li>
     <li> Rachel Green = Jennifer Aniston</li>
     </ul>
