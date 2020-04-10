@@ -36,7 +36,7 @@
   <div id="picture" align="center">
     <h3>
     <strong>
-    <a href="https://friendsfest.co.uk">This is a link to get tickets to Friendsfest</a>
+    <a href="https://friendsfest.co.uk" target="_blank">This is a link to get tickets to Friendsfest</a>
     </strong>
       <h3>
     </br> 
