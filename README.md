@@ -5,6 +5,7 @@
  </head>
 <body>
  <a href="./index.html">Friends</a>
+  <a href="./aboutme.html">Blog</a>
   <style>
   body {
   background-color:#0000FF
