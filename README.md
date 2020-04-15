@@ -4,11 +4,19 @@
 <title>Olivia's Website</title>
  </head>
 <body>
+<h2>
  <a href="./index.html">Friends</a>
   <a href="./aboutme.html">Blog</a>
+  <a href="./jenniferanniston.html">Jennifer Aniston</a>
+  <a href="./davidschwimmer.html">David Schwimmer</a>
+  <a href="./courteneycox.html">Courteney Cox</a>
+  <a href="./matthewperry.html">Matthew Perry</a>
+  <a href="./lisakudrow.html">Lisa Kudrow</a>
+  <a href="./matleblanc.html">Matt Le Blanc</a>
+  </h2>
   <style>
   body {
-  background-color:#0000FF
+  background-color:red
   }
   </style>
   <div id="picture" align="center">
@@ -22,7 +30,7 @@
     <li>Ross Gellar = David Schwimmer</li>
     <li> Chandler Bing = Matthew Perry</li>
     <li> Pheobe Buffay = Lisa Kudrow</li> 
-    <li>Joey Tribiane = Mat le Blanc </li>
+    <li>Joey Tribiane = Matt le Blanc </li>
     <li> Rachel Green = Jennifer Aniston</li>
     </ul>
   </div>
@@ -81,6 +89,11 @@
       <img src="https://i.pinimg.com/originals/c4/9b/51/c49b5196b4a94c775890eaff7b22752b.jpg" height="250" width="225"/>
     </div>
     </p>
+    <p>
+     This man is related to Monica and Ross obviously if he is related to Monica and Ross he is related to Judy. he is Jack Gellar. Pheobe once has a crush on him on a thanksgiving.His real name is Elliot Gould.
+     <div id="picture" align="center">
+     <img src="https://img.buzzfeed.com/buzzfeed-static/static/2014-10/10/19/campaign_images/webdr08/jack-gellers-best-19-lines-on-friends-2-28657-1412984084-6_dblbig.jpg" width="300" height="225"/>
+     </div>  
   <p>
     This is one of Rachels sisters she is not the one that didn't pierce Emma's ears. It's not the one that moved in with her and Joey. If you didn't get it Ill tell you. The one I have been talking about is Jill Green. You all know her as Jill but her real name is Reece Witherspoon.
   </p>
